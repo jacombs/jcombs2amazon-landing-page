@@ -1,0 +1,13 @@
+# Photoshop files
+*.psd
+
+# Cursor config
+.cursorrules
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
